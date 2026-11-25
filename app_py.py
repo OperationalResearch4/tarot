@@ -1,4 +1,3 @@
-#pip install streamlit pillow
 import os
 import random
 from PIL import Image
@@ -30,8 +29,8 @@ if not archivos:
   st.warning(f"La carpeta '{CARPETA_CARTAS}' está vacía. Agrega imágenes.")
   st.stop()
 
-# Controles en la página web
-col_input, col_boton = st.columns()
+# Controles en la página web (corregido con el 2 dentro de st.columns)
+col_input, col_boton = st.columns(2)
 
 with col_input:
   cantidad = st.number_input(
@@ -76,13 +75,10 @@ if lanzar:
       else:
         estado = "⬆️ Derecha"
 
-      nombre = os.path.splitext(archivo).replace("_", " ").title()
+      nombre = os.path.splitext(archivo)[0].replace("_", " ").title()
       numero_carta = i + idx + 1
 
       with cols[idx]:
         st.image(img, use_container_width=True)
         st.markdown(f"**{numero_carta}. {nombre}**")
         st.caption(estado)
-
-
-#En tu terminal, ubícate dentro de la carpeta tarot_web y ejecuta: streamlit run app.py
