@@ -30,7 +30,7 @@ if not archivos:
   st.warning(f"La carpeta '{CARPETA_CARTAS}' está vacía. Agrega imágenes.")
   st.stop()
 
-# --- NUEVO: Opción de Casos Hipotéticos ---
+# Opción de Casos Hipotéticos
 usar_casos = st.checkbox("📖 Practicar con un caso hipotético al azar")
 
 # Controles principales
@@ -56,12 +56,15 @@ with col_boton:
 if lanzar:
   st.divider()
 
-  # Si el usuario activó los casos de práctica, lee casos.txt y elige uno al azar
+  # Si el usuario activó los casos de práctica, lee casos.txt soportando tildes y ñ
   if usar_casos:
     if os.path.exists(ARCHIVO_CASOS):
-      with open(ARCHIVO_CASOS, "r", encoding="utf-8") as f:
-        # Lee cada línea no vacía del archivo
-        lista_casos = [linea.strip() for linea in f if linea.strip()]
+      try:
+        with open(ARCHIVO_CASOS, "r", encoding="utf-8") as f:
+          lista_casos = [linea.strip() for linea in f if linea.strip()]
+      except UnicodeDecodeError:
+        with open(ARCHIVO_CASOS, "r", encoding="latin-1") as f:
+          lista_casos = [linea.strip() for linea in f if linea.strip()]
 
       if lista_casos:
         caso_elegido = random.choice(lista_casos)
@@ -96,7 +99,7 @@ if lanzar:
       else:
         estado = "⬆️ Derecha"
 
-      nombre = os.path.splitext(archivo).replace("_", " ").title()
+      nombre = os.path.splitext(archivo)[0].replace("_", " ").title()
       numero_carta = i + idx + 1
 
       with cols[idx]:
