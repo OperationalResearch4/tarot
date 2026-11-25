@@ -5,6 +5,7 @@ from PIL import Image
 import streamlit as st
 
 CARPETA_CARTAS = "cartas"
+PROBABILIDAD_INVERSA = 0.35  # 35% de probabilidad de salir al revés
 
 # Configuración de la página web
 st.set_page_config(page_title="Tarot Web", page_icon="🔮", layout="wide")
@@ -30,7 +31,7 @@ if not archivos:
   st.stop()
 
 # Controles en la página web
-col_input, col_boton = st.columns([2, 1])
+col_input, col_boton = st.columns()
 
 with col_input:
   cantidad = st.number_input(
@@ -42,7 +43,7 @@ with col_input:
   )
 
 with col_boton:
-  st.write("")  # Espacio para alinear el botón con el cuadro numérico
+  st.write("")
   st.write("")
   lanzar = st.button(
       "✨ Lanzar Cartas", type="primary", use_container_width=True
@@ -63,8 +64,8 @@ if lanzar:
     bloque_cartas = cartas_elegidas[i : i + columnas_por_fila]
 
     for idx, archivo in enumerate(bloque_cartas):
-      # 2. Al derecho o al revés de forma aleatoria
-      es_inversa = random.choice([True, False])
+      # 2. 35% de probabilidad de salir inversa
+      es_inversa = random.random() < PROBABILIDAD_INVERSA
 
       ruta = os.path.join(CARPETA_CARTAS, archivo)
       img = Image.open(ruta)
@@ -75,7 +76,7 @@ if lanzar:
       else:
         estado = "⬆️ Derecha"
 
-      nombre = os.path.splitext(archivo)[0].replace("_", " ").title()
+      nombre = os.path.splitext(archivo).replace("_", " ").title()
       numero_carta = i + idx + 1
 
       with cols[idx]:
