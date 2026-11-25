@@ -4,6 +4,7 @@ from PIL import Image
 import streamlit as st
 
 CARPETA_CARTAS = "cartas"
+ARCHIVO_CASOS = "casos.txt"
 PROBABILIDAD_INVERSA = 0.35  # 35% de probabilidad de salir al revés
 
 # Configuración de la página web
@@ -11,7 +12,7 @@ st.set_page_config(page_title="Tarot Web", page_icon="🔮", layout="wide")
 
 st.title("🔮 Tirada de Tarot en Línea")
 
-# Verifica que exista la carpeta y busca las imágenes
+# Verifica que exista la carpeta de cartas
 if not os.path.exists(CARPETA_CARTAS):
   st.error(
       f"No se encontró la carpeta '{CARPETA_CARTAS}'. Créala junto a este"
@@ -29,7 +30,10 @@ if not archivos:
   st.warning(f"La carpeta '{CARPETA_CARTAS}' está vacía. Agrega imágenes.")
   st.stop()
 
-# Controles en la página web (corregido con el 2 dentro de st.columns)
+# --- NUEVO: Opción de Casos Hipotéticos ---
+usar_casos = st.checkbox("📖 Practicar con un caso hipotético al azar")
+
+# Controles principales
 col_input, col_boton = st.columns(2)
 
 with col_input:
@@ -51,6 +55,23 @@ with col_boton:
 # Lógica al presionar el botón
 if lanzar:
   st.divider()
+
+  # Si el usuario activó los casos de práctica, lee casos.txt y elige uno al azar
+  if usar_casos:
+    if os.path.exists(ARCHIVO_CASOS):
+      with open(ARCHIVO_CASOS, "r", encoding="utf-8") as f:
+        # Lee cada línea no vacía del archivo
+        lista_casos = [linea.strip() for linea in f if linea.strip()]
+
+      if lista_casos:
+        caso_elegido = random.choice(lista_casos)
+        st.info(f"**Caso para practicar:**\n\n{caso_elegido}")
+      else:
+        st.warning(f"El archivo '{ARCHIVO_CASOS}' está vacío.")
+    else:
+      st.warning(
+          f"No se encontró el archivo '{ARCHIVO_CASOS}' en el repositorio."
+      )
 
   # 1. Sin repeticiones
   cartas_elegidas = random.sample(archivos, cantidad)
@@ -75,7 +96,7 @@ if lanzar:
       else:
         estado = "⬆️ Derecha"
 
-      nombre = os.path.splitext(archivo)[0].replace("_", " ").title()
+      nombre = os.path.splitext(archivo).replace("_", " ").title()
       numero_carta = i + idx + 1
 
       with cols[idx]:
