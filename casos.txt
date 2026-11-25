@@ -1,4 +1,274 @@
 Una persona duda si aceptar una oferta de trabajo en otra ciudad o quedarse en su empleo actual estable.
-Alguien siente que su relaci�n de pareja se ha vuelto mon�tona y pregunta qu� debe hacer para mejorarla.
-Un emprendedor quiere saber c�mo le ir� si lanza su nuevo negocio este mes.
-Una persona acaba de discutir con un amigo cercano y pregunta si deber�a buscarlo para hablar.
+Alguien siente que su relación de pareja se ha vuelto monótona y pregunta qué debe hacer para mejorarla.
+Un emprendedor quiere saber cómo le irá si lanza su nuevo negocio este mes.
+Una persona acaba de discutir con un amigo cercano y pregunta si debería buscarlo para hablar.
+Una persona lleva meses saliendo con alguien que no quiere formalizar y pregunta qué futuro tiene la relación.
+Alguien acaba de terminar una relación larga y quiere saber qué necesita sanar antes de volver a enamorarse.
+Una pareja está pasando por una crisis de confianza tras una mentira y pregunta cómo pueden reconstruir el vínculo.
+Una persona siente atracción por un compañero de trabajo y pregunta qué pasaría si decide dar el primer paso.
+Alguien tiene dudas entre volver con una expareja que pide otra oportunidad o conocer a alguien nuevo.
+Una persona siente que da mucho más que su pareja en la relación y pide consejo sobre cómo equilibrar la balanza.
+Un empleado siente que está estancado en su puesto actual y pregunta qué debe hacer para conseguir un ascenso.
+Alguien recibió dos ofertas laborales muy distintas y necesita claridad sobre cuál le conviene más a largo plazo.
+Una persona está pensando en renunciar a su trabajo estable para dedicarse a un proyecto propio y pregunta cómo le irá.
+Un profesional tiene una entrevista de trabajo muy importante esta semana y pregunta qué actitud debe proyectar.
+Alguien tiene conflictos constantes con su jefe y pregunta si la situación mejorará o si debe buscar otro empleo.
+Un estudiante está por graduarse y no sabe qué especialización o camino profesional elegir.
+Una persona quiere invertir sus ahorros en un negocio con un amigo y pregunta qué riesgos ocultos existen.
+Alguien siente que el dinero no le rinde a pesar de trabajar mucho y pregunta qué hábitos debe cambiar.
+Una persona está esperando el pago de una deuda o trámite legal y pregunta cómo se resolverá.
+Alguien duda si comprar una propiedad ahora o esperar unos meses a que cambie su situación económica.
+Una persona siente mucho agotamiento mental y falta de motivación, y pregunta qué necesita cambiar en su rutina.
+Alguien está pensando en mudarse a otro país o ciudad y pregunta qué aprendizajes le traerá ese cambio.
+Una persona siente que repite siempre los mismos errores en sus decisiones y pregunta cuál es el bloqueo principal.
+Alguien quiere retomar un talento o pasión que dejó abandonada hace años y pregunta por dónde empezar.
+Una persona atraviesa un momento de mucha incertidumbre y pide un mensaje general de guía para este mes.
+Hay una discusión pendiente entre dos hermanos por un tema económico y uno pregunta cómo abordar la charla.
+Una persona siente que su familia intenta controlar sus decisiones de vida y pregunta cómo poner límites sanos.
+Alguien está planeando un viaje o reunión familiar y pregunta cuál será la energía general del encuentro.
+Una persona sospecha que un amigo cercano está hablando mal a sus espaldas y pregunta cuál es la verdad.
+Alguien siente que se ha distanciado de su grupo de amigos y pregunta si vale la pena intentar acercarse de nuevo.
+Una persona tiene que tomar una decisión difícil esta semana y pregunta qué pasará si elige la opción A frente a la opción B.
+Alguien siente miedo de salir de su zona de confort y pregunta qué es lo peor y lo mejor que podría ocurrir.
+Una persona pregunta cuál es su mayor fortaleza oculta en este momento de su vida.
+Alguien quiere saber qué etapa de su vida está por cerrarse y qué viene después.
+Alguien siente que su pareja actual oculta algo importante y pregunta qué es lo que realmente está pasando detrás de escena.
+Una persona lleva años soltera y pregunta qué creencia o miedo le impide abrirse a una nueva relación.
+Alguien conoció a una persona por internet y quiere saber qué intenciones reales tiene antes de conocerse en persona.
+Una pareja está pensando en irse a vivir juntos y pregunta cuáles serán los principales retos de la convivencia.
+Una persona siente que su relación a distancia se está enfriando y pregunta si vale la pena seguir luchando por ella.
+Alguien quiere saber qué aprendizaje le dejó una relación tóxica que terminó hace poco.
+Una persona siente envidia o competencia por parte de un compañero de oficina y pregunta cómo debe manejar la situación.
+Alguien quiere pedir un aumento de sueldo pero tiene miedo al rechazo, y pregunta cuál es el mejor momento para hacerlo.
+Una persona acaba de ser despedida de forma inesperada y pregunta qué nuevas puertas se abrirán en los próximos meses.
+Alguien tiene una idea creativa para un proyecto digital pero no se atreve a lanzarlo por miedo al qué dirán.
+Una persona trabaja demasiado y descuida su vida personal, por lo que pide consejo para encontrar un equilibrio real.
+Alguien está considerando asociarse con un familiar para abrir un local y pregunta cómo resultará esa alianza.
+Una persona siente que tiene varios gastos imprevistos seguidos y pregunta cómo puede estabilizar sus finanzas.
+Alguien recibió una herencia o dinero extra y pregunta cuál es la forma más sabia de administrarlo.
+Una persona quiere saldar sus deudas este año y pregunta qué estrategia o cambio de mentalidad necesita aplicar.
+Alguien prestó dinero a un ser querido y pregunta si logrará recuperarlo sin dañar la relación.
+Una persona siente que da demasiado por los demás y nunca recibe lo mismo a cambio, y pregunta cómo cambiar esa dinámica.
+Alguien tiene insomnio o ansiedad por el futuro y pide un consejo para recuperar su paz mental.
+Una persona siente que ya no encaja en su entorno actual y pregunta hacia dónde debe dirigir su energía.
+Alguien quiere perdonar un error del pasado que todavía le pesa y pregunta qué necesita soltar para avanzar.
+Una persona tiene un sueño recurrente o una corazonada muy fuerte y pregunta qué mensaje intenta darle su intuición.
+Alguien siente que está procrastinando metas importantes y pregunta cuál es la raíz de su falta de acción.
+Una persona quiere mejorar su autoestima y seguridad personal, y pide una guía práctica para empezar hoy mismo.
+Alguien está atravesando un duelo o pérdida importante y busca consuelo y claridad sobre su proceso de sanación.
+Una persona siente tensión en casa con sus padres y pregunta cómo mejorar la comunicación sin discutir.
+Alguien quiere ayudar a un familiar que está pasando por un mal momento pero no sabe cómo acercarse sin invadir su espacio.
+Una persona está planeando mudarse sola por primera vez y pregunta qué desafíos y alegrías le esperan.
+Alguien siente que un amigo solo lo busca cuando necesita favores y pregunta si debería alejarse definitivamente.
+Una persona quiere hacer nuevas amistades en una ciudad nueva y pregunta qué espacios o actividades le convienen.
+Alguien tuvo un malentendido con alguien importante y pregunta si el tiempo arreglará las cosas o si debe aclarar todo ya.
+Una persona tiene que firmar un contrato o acuerdo importante y pregunta a qué detalles debe prestarle mucha atención.
+Alguien siente que está en una encrucijada entre seguir lo que dicta su razón o dejarse llevar por su corazón.
+Una persona quiere saber qué energía predominará en su vida durante los próximos tres meses.
+Alguien pregunta qué lección kármica o personal se está repitiendo en su vida en este momento.
+Una persona siente que perdió el rumbo de sus metas y pregunta cuál debería ser su prioridad número uno ahora.
+Alguien está planeando un viaje largo de vacaciones y pregunta qué experiencias inesperadas le esperan.
+Una persona quiere saber qué cualidad suya está subestimando y debería empezar a aprovechar más.
+Alguien siente que alguien del pasado volverá a aparecer pronto y pregunta con qué propósito lo hará.
+Una persona duda si confiar en una promesa que le hicieron recientemente y pregunta qué tan sincera es esa persona.
+Alguien pide un consejo directo sobre qué debe dejar ir antes de que termine el año para empezar renovado.
+Una persona siente que su pareja evita hablar sobre el futuro juntos y pregunta qué hay detrás de ese silencio.
+Alguien acaba de conocer a alguien muy distinto a su tipo habitual y pregunta qué puede aportar esa persona a su vida.
+Una pareja está atravesando una etapa de estrés económico y pregunta cómo evitar que eso afecte su relación.
+Una persona duda si confesar sus sentimientos a un amigo de toda la vida o mantener la amistad tal como está.
+Alguien siente que su expareja lo sigue buscando en redes sociales y pregunta cuáles son sus verdaderas intenciones.
+Una persona quiere saber qué patrón amoroso está repitiendo sin darse cuenta y cómo puede romperlo.
+Alguien siente que su relación actual se basa más en la costumbre que en el amor y pregunta qué decisión tomar.
+Una persona está en medio de un divorcio o separación difícil y pregunta qué actitud le ayudará a salir adelante.
+Un emprendedor siente que su negocio se ha estancado en ventas y pregunta qué estrategia nueva debe probar.
+Alguien recibió una propuesta para trabajar de forma remota desde casa y pregunta cómo se adaptará a ese cambio.
+Una persona siente que sus ideas no son valoradas en su equipo de trabajo y pregunta cómo hacerse escuchar.
+Alguien está pensando en estudiar una carrera nueva o hacer un curso y pregunta qué impacto tendrá en su futuro laboral.
+Una persona tiene miedo de fracasar en un nuevo puesto de liderazgo y pregunta qué herramientas internas necesita desarrollar.
+Alguien trabaja en un ambiente muy competitivo y pregunta cómo proteger su energía y destacar sin conflictos.
+Una persona quiere dejar un trabajo que le da buen dinero pero le quita paz mental, y pregunta cuál es el momento indicado.
+Alguien está buscando empleo desde hace meses sin éxito y pregunta qué está bloqueando las oportunidades.
+Una persona quiere empezar a ahorrar para un proyecto grande pero siempre surge un imprevisto, y pregunta cómo organizarse.
+Alguien está pensando en comprar un vehículo o hacer un gasto fuerte y pregunta si es un buen momento financiero.
+Una persona siente culpa cada vez que gasta dinero en sí misma y pregunta cómo sanar su relación con la abundancia.
+Alguien recibió una oferta de inversión que parece demasiado buena para ser verdad y pregunta qué debe investigar antes.
+Una persona quiere generar ingresos extra con un pasatiempo y pregunta qué tan viable es convertirlo en negocio.
+Alguien está pasando por una racha de mala suerte con electrodomésticos o reparaciones y pregunta qué simboliza ese desgaste.
+Una persona siente que carga con responsabilidades que no le corresponden y pregunta cómo aprender a decir que no.
+Alguien tiene dificultad para concentrarse y terminar lo que empieza, y pide un consejo para recuperar el enfoque.
+Una persona siente nostalgia constante por el pasado y pregunta qué necesita hacer para disfrutar más el presente.
+Alguien está atravesando un despertar espiritual o cambio de creencias y pregunta hacia dónde lo guía ese proceso.
+Una persona siente mucha rabia acumulada por una injusticia que vivió y pregunta cómo transformar esa emoción.
+Alguien quiere mejorar su bienestar físico y hábitos diarios pero le cuesta ser constante, y pide una recomendación.
+Una persona siente que siempre intenta complacer a todos y pregunta cómo empezar a priorizar sus propios deseos.
+Alguien está a punto de cumplir años y pregunta cuál será el tema central de su nuevo ciclo personal.
+Una persona siente que hay secretos o temas tabú en su familia que siguen afectando el ambiente actual.
+Alguien está pensando en reconciliarse con un familiar con el que no habla hace años y pregunta cómo reaccionará.
+Una persona siente que sus hijos o hermanos menores no escuchan sus consejos y pregunta cómo acompañarlos mejor.
+Alguien quiere organizar una mudanza o remodelación en su hogar y pregunta cómo fluirá todo el proceso.
+Una persona siente que un vecino o conocido está invadiendo su privacidad y pregunta cómo manejarlo con diplomacia.
+Alguien descubrió que un amigo le mintió sobre algo pequeño y pregunta si es señal de algo más grande.
+Una persona siente que su grupo de amigos tiene metas muy distintas a las suyas y pregunta si es momento de cambiar de círculo.
+Alguien quiere pedir disculpas a un amigo al que hirió sin querer y pregunta si la otra persona está lista para escuchar.
+Una persona está planeando un viaje con amigos y pregunta qué debe tener en cuenta para evitar roces durante el paseo.
+Alguien siente que una amistad nueva está avanzando muy rápido y pregunta si puede confiar plenamente en esa persona.
+Una persona tiene que elegir entre dos lugares para vivir y pregunta qué energía ofrece cada opción.
+Alguien siente que está esperando una señal del universo para actuar y pregunta qué es lo que no está queriendo ver.
+Una persona quiere saber qué obstáculo invisible está frenando su crecimiento en este momento.
+Alguien pregunta qué consejo le daría su "yo del futuro" respecto a la situación que vive hoy.
+Una persona siente que todo en su vida está en pausa y pregunta qué debe hacer mientras las cosas vuelven a moverse.
+Alguien tiene que dar una noticia difícil a alguien querido y pregunta cuál es la forma más empática de hacerlo.
+Una persona quiere saber qué talento creativo tiene dormido y cómo puede despertarlo este mes.
+Alguien siente miedo al rechazo cada vez que intenta algo nuevo y pregunta cómo fortalecer su confianza.
+Una persona pregunta qué persona o situación de su entorno actual es en realidad una bendición disfrazada.
+Alguien quiere cerrar ciclos antes de empezar un proyecto importante y pregunta qué ritual o acción simbólica le conviene.
+Alguien encontró el perfil de la pareja de su mejor amigo en una app de citas y pregunta si debe contárselo o quedarse callado.
+Una persona quiere adoptar un gato o un perro pero vive en un apartamento pequeño y pregunta cómo cambiará su caos diario.
+Alguien siente que su jefe le tiene manía porque una vez no se rio de su chiste malo y pregunta cómo sobrevivir en esa oficina.
+Una persona duda si cortarse el flequillo o hacerse un cambio de look radical después de una ruptura amorosa.
+Alguien quiere saber qué piensa realmente su mascota de él y qué energía aporta a su hogar.
+Una persona recibió una invitación a la boda de su expareja y pregunta qué pasará si decide asistir.
+Alguien siente que es un imán para personas dramáticas en el amor y pregunta qué señal está enviando sin darse cuenta.
+Una persona quiere empezar un canal de contenido o podcast pero le da vergüenza escuchar su propia voz grabada.
+Alguien sospecha que un compañero de trabajo se lleva el crédito de sus ideas y pregunta cómo desenmascararlo con elegancia.
+Una persona está pensando en mudarse al campo a criar gallinas y vivir tranquila lejos del estrés de la ciudad.
+Alguien compró un boleto de lotería o entró a un sorteo importante y pregunta qué energía rodea su golpe de suerte.
+Una persona tiene una cita a ciegas organizada por su tía y pregunta qué tan desastrosa o mágica será la velada.
+Alguien siente que su casa tiene una energía pesada o cosas que se pierden solas y pregunta qué necesita limpiar o mover.
+Una persona duda si enviarle un mensaje a las dos de la mañana a alguien que le gusta o irse a dormir.
+Alguien quiere saber por qué siempre termina siendo el psicólogo gratuito de todos sus amigos en las fiestas.
+Una persona está planeando una dieta o rutina de ejercicio nueva y pregunta cuánto tiempo le durará la fuerza de voluntad.
+Alguien siente que un vecino misterioso hace ruidos extraños por la noche y pregunta qué está pasando ahí dentro.
+Una persona quiere aprender a tocar un instrumento musical desde cero y pregunta qué talento oculto descubrirá.
+Alguien tiene que sobrevivir a una cena navideña o reunión familiar con parientes muy preguntones y pide una estrategia.
+Una persona siente que el algoritmo de sus redes sociales la conoce mejor que ella misma y pregunta qué debe cambiar en su vida.
+Alguien duda si aceptar una cita con alguien cuyo signo zodiacal es su supuesto "enemigo mortal".
+Una persona perdió un objeto muy valioso dentro de su propia casa y pregunta dónde o cómo logrará encontrarlo.
+Alguien quiere saber qué energía traerá un corte de cabello o una limpieza profunda de clóset este fin de semana.
+Una persona siente que tiene un talento oculto para los negocios raros y pregunta qué emprendimiento loco le funcionaría.
+Alguien está pensando en viajar solo por primera vez y pregunta qué anécdota inolvidable le espera en el camino.
+Una persona quiere saber por qué siempre atrae parejas que necesitan ser "rescatadas" emocionalmente.
+Alguien tiene una entrevista en un idioma que no domina al cien por ciento y pregunta cómo salir victorioso.
+Una persona siente que su grupo de WhatsApp familiar está a punto de explotar por un chisme y pregunta cómo mantenerse al margen.
+Alguien quiere saber si esa persona que le gusta de verdad está interesada o simplemente es muy amable con todo el mundo.
+Una persona está pensando en comprar plantas para decorar su cuarto y pregunta si logrará mantenerlas con vida.
+Alguien siente que vive en un "día de la marmota" donde todas las semanas son iguales y pregunta cómo romper la rutina.
+Una persona quiere saber qué sorpresa inesperada le traerá decirle que "sí" a todos los planes durante este fin de semana.
+Alguien sospecha que un amigo le debe dinero pero se hace el olvidadizo y pregunta cómo cobrárselo sin perder la amistad.
+Una persona tiene que elegir entre gastar sus ahorros en un viaje épico o en arreglar algo práctico de su casa.
+Alguien quiere saber qué mensaje oculto hay detrás de encontrarse siempre con la misma hora espejo en el reloj.
+Una persona siente que tiene demasiada ropa pero "nada que ponerse" y pregunta qué cambio de identidad está atravesando.
+Alguien está pensando en volver a estudiar algo totalmente opuesto a su profesión actual y pregunta cómo le irá.
+Una persona quiere saber qué pasará si decide decir la verdad sin filtros durante todo un día en su trabajo.
+Alguien siente que alguien le tiene envidia de la mala y pregunta cómo proteger su buena vibra sin volverse paranoico.
+Una persona está pensando en hacerse un tatuaje importante y pregunta qué simbolizará en su vida a largo plazo.
+Alguien quiere saber por qué siempre se enamora de personas que viven al otro lado del mundo o son inalcanzables.
+Una persona tiene que presentar un proyecto importante frente a mucha gente y pregunta cómo dominar los nervios.
+Alguien siente que su celular le está robando toda su creatividad y pregunta qué descubrirá si hace un ayuno digital.
+Una persona quiere saber si es buena idea darle una tercera oportunidad a alguien que ya falló dos veces.
+Alguien está planeando cocinar una receta difícil para impresionar a alguien especial y pregunta cómo saldrá el experimento.
+Una persona siente que tiene una corazonada sobre un cambio grande antes de fin de año y pregunta por dónde empezará.
+Alguien quiere saber qué pasaría si deja de buscar pareja activamente y se dedica solo a consentirse a sí mismo.
+Una persona duda si mudarse con su mejor amigo y pregunta si la convivencia fortalecerá la amistad o la destruirá.
+Alguien siente que está a punto de descubrir un secreto familiar que nadie se atreve a contar en la mesa.
+Una persona pregunta qué consejo le daría el universo si pudiera hablarle directamente frente a frente.
+Alguien está pensando en abrir una cuenta secreta en redes sociales para chismear sin que nadie sepa quién es y pregunta qué descubrirá.
+Una persona quiere saber por qué siempre se enamora justo de la persona que está a punto de mudarse a otro país.
+Alguien siente que su jefe habla en código en las reuniones y pregunta qué es lo que realmente quiere decir.
+Una persona duda si adoptar una dieta vegana o fitness este lunes y pregunta cuánto le durará el entusiasmo.
+Alguien encontró una caja con cartas y recuerdos de un amor viejo haciendo limpieza y pregunta qué energía remueve eso.
+Una persona quiere saber si su crush vio su historia en Instagram por interés real o porque simplemente estaba pasando historias rápido.
+Alguien tiene que hacer una exposición o discurso en público y su mayor miedo es quedarse en blanco o tropezar.
+Una persona está pensando en vender todas sus cosas e irse de mochilero por unos meses para encontrarse a sí misma.
+Alguien siente que su cuarto es un reflejo de su caos mental y pregunta qué pasará si ordena todo este fin de semana.
+Una persona quiere saber por qué siempre termina metida en los chismes de oficina aunque ni siquiera quiera escucharlos.
+Alguien duda si aceptar un trabajo súper bien pagado pero extremadamente aburrido o quedarse donde está.
+Una persona siente que tiene una "maldición" con la tecnología porque todo lo que toca se traba o se desconfigura.
+Alguien quiere saber qué pasará si le devuelve exactamente la misma frialdad e indiferencia a alguien que le gusta.
+Una persona está pensando en escribir un libro o guion basado en su propia vida amorosa y pregunta si tendría éxito.
+Alguien tiene que compartir habitación o viaje con un familiar con el que choca mucho y pide un consejo de supervivencia.
+Una persona siente que siempre elige la fila más lenta en el supermercado o el banco y pregunta qué lección de paciencia es esa.
+Alguien quiere saber qué opina realmente su mejor amigo sobre su pareja actual pero no se atreve a preguntar directo.
+Una persona está pensando en comprar algo carísimo por puro impulso emocional y pregunta si se arrepentirá mañana.
+Alguien siente que su vida parece una telenovela últimamente y pregunta en qué capítulo se encuentra ahora mismo.
+Una persona quiere saber por qué siempre termina haciéndose amiga de los ex de sus amigos o de gente muy complicada.
+Alguien duda si responder un mensaje de alguien que aplicó "ghosting" hace seis meses y reapareció como si nada.
+Una persona siente que necesita unas vacaciones urgentes pero su cuenta bancaria opina todo lo contrario.
+Alguien quiere saber qué talento artístico tiene escondido y qué pasaría si se mete a clases de pintura, baile o teatro.
+Una persona está pensando en cambiar de carrera a los treinta o cuarenta años y pregunta qué dirá su entorno.
+Alguien siente que su celular le escucha los pensamientos porque le salen anuncios de cosas que ni siquiera ha buscado.
+Una persona quiere saber si es buena idea mezclar negocios con su pareja o si terminarán peleando por los gastos.
+Alguien tiene una entrevista de trabajo en línea y le preocupa que su perro ladre o se vaya el internet en medio de la llamada.
+Una persona siente que está en una etapa de "cero tolerancia a las tonterías" y pregunta a quién terminará sacando de su vida.
+Alguien quiere saber qué sorpresa le espera si decide salir a tomar un café o ir al cine completamente solo.
+Una persona duda si decirle a su amigo que su nueva pareja no le da buena espina o dejar que se dé cuenta solo.
+Alguien siente que siempre atraen a personas que solo quieren "fluir" y nunca quieren ponerle nombre a la relación.
+Una persona está pensando en empezar a coleccionar algo raro o invertir en antigüedades y pregunta cómo le irá.
+Alguien quiere saber qué pasaría si deja de dar explicaciones a todo el mundo sobre sus decisiones personales.
+Una persona tiene que ir a una fiesta donde estará medio grupo de personas con las que ya no se habla y pide guía.
+Alguien siente que tiene un sexto sentido muy desarrollado pero nunca le hace caso y luego dice "yo lo sabía".
+Una persona quiere saber por qué siempre le piden consejos de amor si su propia vida sentimental es un desastre.
+Alguien está pensando en aprender a cocinar en serio para dejar de gastar tanto dinero pidiendo comida a domicilio.
+Una persona siente que está a punto de recibir una disculpa inesperada de alguien que juró que nunca cedería.
+Alguien quiere saber qué energía rodea a un objeto antiguo o regalado que tiene guardado en su casa.
+Una persona duda si postularse a un puesto para el cual siente que le falta experiencia pero le sobran ganas.
+Alguien siente que su grupo de amigos necesita una aventura nueva urgente y pregunta qué plan saldría épico.
+Una persona quiere saber qué pasaría si durante una semana entera evita quejarse por absolutamente nada.
+Alguien está pensando en hacer una limpieza de contactos en su teléfono y pregunta qué espacio nuevo abrirá eso.
+Una persona siente que alguien intenta darle celos a propósito en redes sociales y pregunta cómo reaccionar.
+Alguien quiere saber cuál es el mayor drama innecesario que está creando en su propia cabeza ahora mismo.
+Una persona tiene que tomar una decisión importante lanzando una moneda al aire y pregunta qué le dirá su intuición al ver el resultado.
+Alguien siente que está en la calma antes de una gran tormenta de cambios positivos y pregunta por dónde empezará.
+Una persona quiere saber qué pasaría si se atreve a pedir exactamente lo que quiere sin miedo a sonar exigente.
+Alguien está pensando en adoptar una rutina nocturna más tranquila para dejar de sobrepensar antes de dormir.
+Una persona pregunta qué titular tendría la noticia principal de su vida dentro de exactamente seis meses.
+Alguien le envió por error un audio criticando a su jefe al mismísimo grupo de trabajo donde está el jefe y pregunta cómo sobrevivir al lunes.
+Una persona quiere saber por qué su dieta siempre empieza "el próximo lunes" desde hace tres años.
+Alguien le dio "me gusta" sin querer a una foto de hace cuatro años en el perfil de su ex y pregunta si debe mudarse de país.
+Una persona siente que su cuenta bancaria tiene un agujero negro cada vez que entra a una tienda "solo a mirar".
+Alguien tiene que fingir que le encantó un regalo horrible que le dio su suegra y pregunta qué cara poner.
+Una persona quiere saber qué piensa su refrigerador cada vez que lo abre por quinta vez en diez minutos esperando que aparezca comida nueva.
+Alguien quedó de salir con alguien hoy pero le dio pereza bañarse y salir de casa, y pregunta qué excusa inventar.
+Una persona siente que tiene alma de millonaria pero presupuesto de estudiante y pregunta cómo equilibrar esa tragedia.
+Alguien quiere saber por qué siempre le da sueño exactamente cinco minutos después de abrir un libro o ponerse a estudiar.
+Una persona está pensando en responder "jaja sí" a un audio de cinco minutos que le mandó un amigo y no piensa escuchar.
+Alguien siente que su gato lo juzga en silencio cada vez que toma una mala decisión amorosa.
+Una persona quiere saber qué pasará si se corta el cabello ella misma viendo un tutorial de internet a la medianoche.
+Alguien tiene que ir a una reunión de excompañeros del colegio y pregunta cómo presumir una vida exitosa sin mentir tanto.
+Una persona siente que su alarma de la mañana es su peor enemigo y pregunta cómo lograr levantarse sin odiar al mundo.
+Alguien quiere saber por qué siempre se acuerda de lo que debió responder en una discusión tres días después mientras se baña.
+Una persona está pensando en adoptar una personalidad misteriosa y callada pero no aguanta cinco minutos sin contar un chisme.
+Alguien siente que las plantas de su casa tiemblan de miedo cada vez que se acerca con la regadera.
+Una persona quiere saber si esa señal del universo que pidió era realmente un mensaje místico o solo una coincidencia absurda.
+Alguien tiene que sobrevivir a un viaje largo en carretera con un familiar que pone la misma música en repetición.
+Una persona siente que su cuerpo tiene treinta años pero su espalda actúa como si tuviera ochenta y cinco.
+Alguien quiere saber por qué siempre se enamora de gente que parece personaje secundario de una película independiente.
+Una persona está pensando en poner su teléfono en modo avión todo el fin de semana para fingir que desapareció del mapa.
+Alguien siente que tiene un doctorado en crear escenarios ficticios en su cabeza antes de dormir y pregunta cómo graduarse ya.
+Una persona quiere saber qué pasará si decide decir "no tengo dinero" con total dignidad en lugar de inventar que está ocupada.
+Alguien tiene que armar un mueble que viene con instrucciones incomprensibles y pregunta cuántas piezas le van a sobrar.
+Una persona siente que su angel de la guarda ya pidió vacaciones de tanto trabajo extra que le da.
+Alguien quiere saber por qué siempre le escriben todos sus pretendientes el mismo día después de meses de sequía total.
+Una persona está pensando en hacerse pasar por turista en su propia ciudad para ver si así le pasan cosas interesantes.
+Alguien siente que su nivel de paciencia está colgado de un hilo muy delgado esta semana y pregunta quién lo va a romper.
+Una persona quiere saber qué pasará si empieza a cobrar por escuchar los dramas amorosos de sus amigos.
+Alguien tiene una cita con alguien que habla únicamente de criptomonedas o de su rutina de gimnasio y pregunta cómo escapar.
+Una persona siente que cada vez que intenta ahorrar sale un impuesto, una boda o una emergencia dental.
+Alguien quiere saber por qué su intuición funciona perfecto para los problemas ajenos pero se apaga con los suyos.
+Una persona está pensando en mandar un currículum a un trabajo para el que no cumple ni la mitad de los requisitos a ver si pega.
+Alguien siente que tiene un imán para pisar charcos justo el día que estrena zapatos limpios.
+Una persona quiere saber qué opinan sus vecinos de los conciertos privados que da cuando canta en la ducha.
+Alguien tiene que fingir entusiasmo en una videollamada de trabajo mientras por debajo está en pijama.
+Una persona siente que el universo le está haciendo una cámara escondida con las cosas raras que le pasan últimamente.
+Alguien quiere saber por qué siempre termina comprando comida chatarra cuando jura que va a cocinar saludable.
+Una persona está pensando en responderle con un meme a alguien que le mandó un texto súper serio y largo.
+Alguien siente que su memoria borra información importante pero recuerda perfectamente la letra de comerciales de hace veinte años.
+Una persona quiere saber qué pasará si deja de perseguir a la gente y se pone modo "premio mayor".
+Alguien tiene que cuidar al perro o al hijo de un familiar por unas horas y pregunta si devolverá todo intacto.
+Una persona siente que su vida amorosa necesita un reinicio de fábrica urgente y pregunta dónde está el botón.
+Alguien quiere saber por qué siempre le toca sentarse al lado de la persona más intensa en el avión o el autobús.
+Una persona está pensando en empezar a hablarle a sus problemas como si fueran visitas incómodas para que se vayan rápido.
+Alguien siente que su motivación laboral se quedó atrapada en el tráfico y nunca llegó a la oficina.
+Una persona quiere saber qué sorpresa absurda pero buena le tiene preparada el destino antes de que acabe el mes.
+Alguien tiene que decidir entre salir de fiesta este viernes o quedarse viendo películas en pijama con comida rica.
+
